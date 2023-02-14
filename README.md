@@ -4,6 +4,10 @@
 - 📝 I have some scientific publications in international physics journals about quantum physics. See them in my Research Gate profile [Research Gate César](https://www.researchgate.net/profile/Cesar-Muro-Cabral)
 
 
+< div id="header" align="center">
+  <img src="https://drive.google.com/file/d/1rB41EvoXiuGClYFMCjh_XSEQ_fj0IoPV/view?usp=share_link" width="100"/>
+</div>
+
 
 <!---
 cmuro27/cmuro27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
