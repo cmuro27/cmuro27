@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1adBaVM1bKpfQ44dma/giphy.gif" width="300" height="250"/>
+  <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" width="300" height="250"/>
 </div>
 
 
