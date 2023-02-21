@@ -12,7 +12,7 @@
   </span>
 </div>
 
-- 👀 I’m interested in quantum physics, data analysis, and data science.
+- 👀 I’m interested in quantum physics, programming, data analysis, databses and machine learning.
 
 - :hammer_and_wrench: Languages and Tools :<div align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="40" height="40"/>&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" hegiht="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40" hegiht="40"/>  </div>
 
