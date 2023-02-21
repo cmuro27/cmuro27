@@ -17,7 +17,7 @@
 - :hammer_and_wrench: Languages and Tools :<div align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="40" height="40"/>&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" hegiht="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40" hegiht="40"/>  </div>
 
 
-- 📝 I also have some scientific publications in international physics journals about quantum physics. See them in my [ResearchGate Profile](https://www.researchgate.net/profile/Cesar-Muro-Cabral) or [Google scholar](https://scholar.google.ca/citations?user=3J1KHmsAAAAJ&hl=es)
+- 📝 I also have some scientific publications in international physics journals about quantum physics. Read them in my [ResearchGate Profile](https://www.researchgate.net/profile/Cesar-Muro-Cabral) or [Google scholar](https://scholar.google.ca/citations?user=3J1KHmsAAAAJ&hl=es)
 
 <div class="row">
   <div class="column" align="center">
