@@ -1,7 +1,7 @@
 - 👋 Hi, I’m César, I hold a MSc in Physics
-- 👀 I’m interested in data analysis, data science, and quantum physics
-- 💞️ I’m looking to collaborate on data analysis or quantum physics projects ...
-- 📝 I have some scientific publications in international physics journals about quantum physics. See them in my Research Gate profile [Research Gate César](https://www.researchgate.net/profile/Cesar-Muro-Cabral)
+- 👀 I’m interested in quantum physics, data analysis, and data science
+- :hammer_and_wrench: Languages and Tools :
+- 📝 I also have some scientific publications in international physics journals about quantum physics. See them in my [ResearchGate Profile](https://www.researchgate.net/profile/Cesar-Muro-Cabral) or [Google scholar](https://scholar.google.ca/citations?user=3J1KHmsAAAAJ&hl=es)
 
 
 
