@@ -1,5 +1,5 @@
 - 👋 Hi, I’m César, I hold a MSc in Physics
-<div>
+<div align="center">
   <span style="display: inline-block;">
     <a href="https://twitter.com/CsarMuroCabral" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
