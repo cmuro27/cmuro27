@@ -7,8 +7,8 @@
 
 <div class="row">
   <div class="column" align="center">
-    <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" height="250" style="width:65%">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwYjNhNjAwMjc3MmE1MTFmMTI4ODhhZTZkNWM3OGE2NDlkZmFiNCZjdD1n/qz4H9opF8zBZrg4vHy/giphy.gif" height="250" style="width:65%">
+    <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" height="250" style="width:80%">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwYjNhNjAwMjc3MmE1MTFmMTI4ODhhZTZkNWM3OGE2NDlkZmFiNCZjdD1n/qz4H9opF8zBZrg4vHy/giphy.gif" height="250" style="width:80%">
   </div>
 </div> 
 
