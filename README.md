@@ -1,11 +1,11 @@
 - 👋 Hi, I’m César, I hold a MSc in Physics
 <div align="center">
-  <span style="display: inline-block;">
+  <span style="display: inline;">
     <a href="https://twitter.com/CsarMuroCabral" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </span>
-  <span style="display: inline-block;">
+  <span style="display: inline;">
     <a href="https://www.linkedin.com/in/c%C3%A9sar-muro-cabral-8a8893183/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
