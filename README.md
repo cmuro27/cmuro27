@@ -1,4 +1,4 @@
-- 👋 Hi, I’m César, I hold a MSc in Physics
+- 👋 Hi, Welcome to my GitHub! I’m César and I hold a MSc in Physics. My social media profile:
 <div align="center">
   <span style="display: inline;">
     <a href="https://twitter.com/CsarMuroCabral" target="_blank">
