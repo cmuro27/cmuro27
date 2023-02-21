@@ -5,7 +5,7 @@
 
 
 
- <div class="row">
+<div class="row">
   <div class="column">
     <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" height="250" style="width:65%">
   </div>
