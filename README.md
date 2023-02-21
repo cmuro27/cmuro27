@@ -4,11 +4,18 @@
 - 📝 I have some scientific publications in international physics journals about quantum physics. See them in my Research Gate profile [Research Gate César](https://www.researchgate.net/profile/Cesar-Muro-Cabral)
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" width="300" height="250"/>
-  <width="250"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwYjNhNjAwMjc3MmE1MTFmMTI4ODhhZTZkNWM3OGE2NDlkZmFiNCZjdD1n/qz4H9opF8zBZrg4vHy/giphy.gif" width="300" height="250"/>
-</div>
+
+ <div class="row">
+  <div class="column">
+    <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" style="width:90%">
+  </div>
+  <div class="column">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwYjNhNjAwMjc3MmE1MTFmMTI4ODhhZTZkNWM3OGE2NDlkZmFiNCZjdD1n/qz4H9opF8zBZrg4vHy/giphy.gif" style="width:90%">
+  </div>
+</div> 
+
+
+
 
 
 <!---
