@@ -1,12 +1,4 @@
-- 👋 Hi, I’m César, I hold a MSc in Physics
-<div id="badges">
-  <a href="https://www.linkedin.com/in/c%C3%A9sar-muro-cabral-8a8893183/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/CsarMuroCabral">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+- 👋 Hi, I’m César, I hold a MSc in Physics <div id="badges"> <a href="https://www.linkedin.com/in/c%C3%A9sar-muro-cabral-8a8893183/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/CsarMuroCabral"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> </div>
 - 👀 I’m interested in quantum physics, data analysis, and data science
 - :hammer_and_wrench: Languages and Tools :<div align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="40" height="40"/>&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" hegiht="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40" hegiht="40"/>  </div>
 
