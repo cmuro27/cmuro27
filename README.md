@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to my GitHub! I’m César and I hold a MSc in Physics. Here, you can find interesting individual projects and notes of data analysis, databases, and machine learning using Python, R, and SQL. You can also find nice works in Wolfram Mathematica about quantum optics and atomic physics, such as simulating Rydberg atoms interacting with external fields. 
+- 👋 Hi, Welcome to my GitHub! I’m César and I hold a MSc in Physics. Here, you can find interesting individual projects and notes about data analysis, databases, and machine learning using Python, R, and SQL. You can also find nice works in Wolfram Mathematica about quantum optics and atomic physics, such as simulating Rydberg atoms interacting with external fields. 
 - ✨ Follow me also on the following social networks:
 <div align="center">
   <span style="display: inline;">
