@@ -1,4 +1,5 @@
-- 👋 Hi, Welcome to my GitHub! I’m César and I hold a MSc in Physics. You can find me on the following social networks:
+- 👋 Hi, Welcome to my GitHub! I’m César and I hold a MSc in Physics. Here, you cand find interesting individual projects and notes of data analysis, databases, and machine learning using Python, R, and SQL. You can also find nice works on quantum optics and atomic physics such as simulating Rydberg atoms interacting with external fields. 
+- ✨ Follow me also on the following social networks:
 <div align="center">
   <span style="display: inline;">
     <a href="https://twitter.com/CsarMuroCabral" target="_blank">
@@ -12,7 +13,7 @@
   </span>
 </div>
 
-- 👀 I’m interested in quantum physics, programming, data analysis, databases and machine learning.
+- 👀 In general, I’m interested in quantum physics, programming, data analysis, databases and machine learning.
 
 - :hammer_and_wrench: Languages and Tools :<div align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="40" height="40"/>&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" width="40" hegiht="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" hegiht="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40" hegiht="40"/>  </div>
 
