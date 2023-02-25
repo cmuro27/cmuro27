@@ -1,4 +1,12 @@
 - 👋 Hi, Welcome to my GitHub! I’m César and I hold a MSc in Physics. Here, you can find interesting individual projects and notes about data analysis, databases, and machine learning using Python, R, and SQL. You can also find nice works in Wolfram Mathematica or Python about quantum optics and atomic physics, such as simulating Rydberg atoms interacting with external fields. 
+
+<div class="row">
+  <div class="column" align="center">
+    <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" height="260" style="width:90%">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwYjNhNjAwMjc3MmE1MTFmMTI4ODhhZTZkNWM3OGE2NDlkZmFiNCZjdD1n/qz4H9opF8zBZrg4vHy/giphy.gif" height="260" style="width:90%">
+  </div>
+</div> 
+
 - ✨ Follow me also on the following social networks:
 <div align="center">
   <span style="display: inline;">
@@ -20,12 +28,6 @@
 
 - 📝 I also have some scientific publications in international physics journals about quantum physics. Read them in my [ResearchGate Profile](https://www.researchgate.net/profile/Cesar-Muro-Cabral) or [Google scholar](https://scholar.google.ca/citations?user=3J1KHmsAAAAJ&hl=es)
 
-<div class="row">
-  <div class="column" align="center">
-    <img src="https://media.giphy.com/media/KJWezmvz7JY8Tyfq46/giphy.gif" height="260" style="width:90%">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwYjNhNjAwMjc3MmE1MTFmMTI4ODhhZTZkNWM3OGE2NDlkZmFiNCZjdD1n/qz4H9opF8zBZrg4vHy/giphy.gif" height="260" style="width:90%">
-  </div>
-</div> 
 
 
 
