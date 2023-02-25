@@ -29,7 +29,7 @@
 - 📝 I also have some scientific publications in international physics journals about quantum physics. Read them in my [ResearchGate Profile](https://www.researchgate.net/profile/Cesar-Muro-Cabral) or [Google scholar](https://scholar.google.ca/citations?user=3J1KHmsAAAAJ&hl=es)
 
 - Currently coding and listening:  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21eeumfpjlizl2kccrd76iy7a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21eeumfpjlizl2kccrd76iy7a&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21eeumfpjlizl2kccrd76iy7a&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=21eeumfpjlizl2kccrd76iy7a&redirect=true)
 
 
 
